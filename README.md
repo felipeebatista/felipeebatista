@@ -3,8 +3,7 @@
 ## Biografia
 Me chamo Felipe.
 
-Sou estudante no segundo periodo de Análise e Desenvolvimento de Sistemas (ADS).
-Com o curso que estou fazendo na UDF (Universidade do Distrito Federal) entre outros cursos online, venho a cada dia me aperfeiçoando na área de programação. Sou apaixonado por tecnologia e estou buscando aprender cada vez mais para agregar conhecimento.
+Sou formado em ADS e curso uma pós de Desenvolvimento Full Stack. Amo tecnologia e busco aprender cada dia mais. Pos aqui vou aparecendo de vez enquando...
 
 ### Buscando aprender mais sobre as linguagens abaixo:
 
